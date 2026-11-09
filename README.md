@@ -33,8 +33,11 @@ I'm passionate about building software, exploring Linux, and learning how cloud 
 ---
 
 ## 🐟 My GitHub Koi
+<h2 align="center">My GitHub Koi</h2>
 
-<img src="koi/koi.gif" width="256" alt="My GitHub Koi"/>
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub Koi"/>
+</p>
 
 ---
 
